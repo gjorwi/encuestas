@@ -1,0 +1,13 @@
+# Dependencias
+/node_modules
+
+# Next
+/.next/
+/out/
+
+# Varios
+.DS_Store
+*.log
+.env
+.env.local
+.env*.local
